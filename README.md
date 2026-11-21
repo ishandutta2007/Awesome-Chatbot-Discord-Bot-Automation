@@ -67,7 +67,7 @@ Below is the verified competitive benchmark for leading commercial SaaS chatbot 
 
 A rich ecosystem of self-hosted, developer-friendly open-source repositories for building custom Discord bots, autonomous LLM agents, and omnichannel conversational desks. Sorted in descending order by GitHub stargazer count.
 
-| Project / Repository | GitHub Stars Badge ⭐ | Runtime / Language 💻 | Primary Category & Description 📝 |
+| Project / Repository | GitHub_Stars_Badge ⭐ | Runtime / Language 💻 | Primary Category & Description 📝 |
 | :--- | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript / Node.js | **Workflow Automation**: Fair-code workflow orchestration platform connecting Discord webhooks, AI agents, databases, and 400+ SaaS apps. |
 | **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) | Python | **Autonomous Agents**: Groundbreaking open-source autonomous agent framework for chaining LLM thoughts, commands, and web actions. |
